@@ -37,4 +37,13 @@
   * Update a package ``pip install -U fastapi``
   * Check for missing dependencies ``python -m pip check``
 
+* Migrate to database ``py manage.py migrate``
 
+
+* create migration from models ``py manage.py makemigrations <model name>``
+
+
+* Show sql from migration ``py manage.py sqlmigrate polls 0001``
+
+
+* python shell ``py manage.py shell``
