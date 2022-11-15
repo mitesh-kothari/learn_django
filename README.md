@@ -47,3 +47,6 @@
 
 
 * python shell ``py manage.py shell``
+
+
+* Create Django ``py manage.py createsuperuser``
